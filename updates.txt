@@ -1,5 +1,5 @@
-[=] Fixed an issue that caused unpredicted behavior
-[=] Fixed an issue that caused all min dmg sliders to be active in main menu
-[=] Fixed an issue where valve safe mode wouldn't deactivate gui elements in main menu
+[=] Fixed unpredicted behavior
+[=] Fixed all min dmg sliders to be active
+[=] Fixed valve safe mode wouldn't deactivate gui elements
 
 10.12.2023
