@@ -2,6 +2,6 @@
 
 [=] Fixed all min dmg sliders to be active
 
-[=] Fixed valve safe mode wouldn't deactivate gui elements
+[=] Fixed safe mode not deactivating GUI elements
 
 10.12.2023
