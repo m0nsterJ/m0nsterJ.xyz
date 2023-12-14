@@ -1,7 +1,9 @@
-[=] Fixed unpredicted behavior
+[+] Added Nightmode
 
-[=] Fixed all min dmg sliders to be active
+[+] Added FOV circle
 
-[=] Fixed safe mode not deactivating GUI elements
+[+] Added Ragebot Hitchance Display
 
-10.12.2023
+[=] Various bug fixes
+
+14.12.2023
