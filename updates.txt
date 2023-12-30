@@ -1,9 +1,9 @@
-[+] Added Nightmode
+[+] Added Viewmodel Changer
 
-[+] Added FOV circle
+[+] FOV circle now accounts for min / max FOV
 
-[+] Added Ragebot Hitchance Display
+[+] Various fixes for Nightmode
 
-[=] Various bug fixes
+[=] Moved updates and greeting to the menu top
 
-14.12.2023
+30.12.2023
