@@ -1,9 +1,9 @@
-[+] Added Viewmodel Changer
+[+] Added Autowall toggle
 
-[+] FOV circle now accounts for min / max FOV
+[+] Added Force Baim toggle
 
-[+] Various fixes for Nightmode
+[+] Added Custom Scope
 
-[=] Moved updates and greeting to the menu top
+[=] Minor bug fixes
 
-30.12.2023
+05.01.2023
