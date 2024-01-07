@@ -1,9 +1,9 @@
-[+] Added Autowall toggle
+[+] Added Magnet Triggerbot
 
-[+] Added Force Baim toggle
+[+] Added Watermark
 
-[+] Added Custom Scope
+[=] Various aesthetical changes
 
-[=] Minor bug fixes
+[=] Bug fixes
 
-05.01.2023
+07.01.2023
