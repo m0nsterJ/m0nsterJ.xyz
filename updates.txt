@@ -1,6 +1,6 @@
 [+] Added Viewmodel FOV changer
 
-[+] Indicators / watermark now adjust to DPI scale
+[+] Indicators / Watermark now adjust to DPI scale
 
 [+] Added animated Damage Logs
 
