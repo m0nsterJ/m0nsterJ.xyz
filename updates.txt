@@ -4,6 +4,6 @@
 
 [+] Added animated Damage Logs
 
-[=] Fixed an issue with Custom Scope and Viewmodel Changer
+[=] Fixed issues with Custom Scope + Viewmodel Changer
 
 25.01.2023
