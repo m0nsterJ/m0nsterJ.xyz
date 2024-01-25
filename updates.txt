@@ -1,9 +1,9 @@
-[+] Added Magnet Triggerbot
+[+] Added Viewmodel FOV changer
 
-[+] Added Watermark
+[+] Indicators / watermark now adjust to DPI scale
 
-[=] Various aesthetical changes
+[+] Added animated Damage Logs
 
-[=] Bug fixes
+[=] Fixed an issue with Custom Scope and Viewmodel Changer
 
-07.01.2023
+25.01.2023
