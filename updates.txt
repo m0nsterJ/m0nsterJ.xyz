@@ -1,9 +1,9 @@
-[+] Added Viewmodel FOV changer
+[+] Added customization for Custom Scope
 
-[+] Indicators / Watermark now adjust to DPI scale
+[+] Added Force Baim indicator
 
-[+] Added animated Damage Logs
+[+] Vastly improved general Lua performance
 
-[=] Fixed bugs in Custom Scope + Viewmodel Changer
+[=] Various bug fixes
 
-25.01.2023
+05.02.2024
