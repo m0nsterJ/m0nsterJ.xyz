@@ -1,9 +1,9 @@
-[+] Added customization for Custom Scope
+[+] Added Date / Time to Watermark
 
-[+] Added Force Baim indicator
+[+] Added Misslogs
 
-[+] Vastly improved general Lua performance
+[+] Freestanding is independent from autopeek
 
-[=] Various bug fixes
+[+] Much more (check full upd log in discord)
 
-05.02.2024
+20.03.2024
