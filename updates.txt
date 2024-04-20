@@ -1,9 +1,9 @@
-[+] Added Date / Time to Watermark
+[+] Added fully customizable Anti-Aim
 
-[+] Added Misslogs
+[+] Added Pingbooster
 
-[+] Freestanding is independent from autopeek
+[+] Vastly improved script performance
 
-[+] Much more (check full upd log in discord)
+[=] Changed + improved menu aesthetics
 
-20.03.2024
+20.04.2024
