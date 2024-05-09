@@ -1,9 +1,9 @@
-[+] Added fully customizable Anti-Aim
+[+] Added Autobuy
 
-[+] Added Pingbooster
+[+] Added Shotcross
 
-[+] Vastly improved script performance
+[+] Added Elo Dumper
 
-[=] Changed + improved menu aesthetics
+[=] Small GUI fixes
 
-20.04.2024
+09.05.2024
