@@ -1,9 +1,9 @@
-[+] Added Autobuy
+[+] Added Jumpscout Mode
 
-[+] Added Shotcross
+[+] Added Autowall Indicator
 
-[+] Added Elo Dumper
+[+] Added Rage- / Legitbot toggle (bindable)
 
-[=] Small GUI fixes
+[=] Various fixes across the Lua
 
-09.05.2024
+20.07.2024
