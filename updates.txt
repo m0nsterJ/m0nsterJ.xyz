@@ -1,9 +1,9 @@
-[+] Added Jumpscout Mode
+[+] Added Aimbot after X shots
 
-[+] Added Autowall Indicator
-
-[+] Added Rage- / Legitbot toggle (bindable)
+[+] Optimzed Custom Scope
 
 [=] Various fixes across the Lua
 
-20.07.2024
+Stay tuned for a new Lua release!
+
+05.10.2024
