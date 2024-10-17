@@ -1,9 +1,9 @@
-[+] Added Aimbot after X shots
+[+] Added safety notification warning
 
-[+] Optimzed Custom Scope
+[+] Safemode now behaves more strictly
 
-[=] Various fixes across the Lua
+[=] Rearranged menu elements
 
-Stay tuned for a new Lua release!
+[=] Various fixes across Lua
 
-05.10.2024
+17.10.2024
